@@ -21,5 +21,5 @@ Also implements Googles very badly documented Secure Token functionality as sort
 * This project is based off of work from here: [**Aliencube.ReCaptcha.NET**](https://github.com/aliencube/ReCaptcha.NET/) and 
 ## Releases
 
-  * **2015-08-04** - v1.0 First release
+* **2015-08-04** - v1.0 First release
   
