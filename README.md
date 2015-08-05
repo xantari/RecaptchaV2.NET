@@ -25,3 +25,6 @@ Also implements Googles very badly documented Secure Token functionality mention
 
 * **2015-08-04** - v1.0 First release
   
+## Contact ##
+
+* Matt Olson [**Keelio Software**](http://www.keelio.com)
