@@ -4,6 +4,8 @@ Implements a class that allows you to use Googles Recaptcha V2 library with .NET
 
 Also implements Googles very badly documented Secure Token functionality mentioned here: https://developers.google.com/recaptcha/docs/secure_token 
 
+Secure Token requires the use of AES in EBC mode, with PKCS5/PKCS7 padding. The key and initialization vector are the first 16 bytes of your Google Recaptcha Secret Key. 
+
 ## How to use
 
   - Download the source code
