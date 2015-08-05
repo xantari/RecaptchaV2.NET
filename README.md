@@ -27,4 +27,4 @@ Also implements Googles very badly documented Secure Token functionality mention
   
 ## Contact ##
 
-* Matt Olson [**Keelio Software**](http://www.keelio.com)
+* Matt Olson - [**Keelio Software**](http://www.keelio.com)
