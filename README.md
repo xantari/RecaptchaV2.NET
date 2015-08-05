@@ -2,7 +2,7 @@
 
 Implements a class that allows you to use Googles Recaptcha V2 library with .NET (Webforms or MVC)
 
-Also implements Googles very badly documented Secure Token functionality as sort of defined here: https://developers.google.com/recaptcha/docs/secure_token 
+Also implements Googles very badly documented Secure Token functionality mentioned here: https://developers.google.com/recaptcha/docs/secure_token 
 
 ## How to use
 
