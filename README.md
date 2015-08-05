@@ -19,7 +19,7 @@ Also implements Googles very badly documented Secure Token functionality as sort
 
 * **ReCaptchaV2.NET** currently support Version 2 only. An existing .NET library is available for version 1.0 from Google.
 * This project is based off of work from here: [**Aliencube.ReCaptcha.NET**](https://github.com/aliencube/ReCaptcha.NET/) and
-* and [**ReCaptchav2dotnet**](https://github.com/pnmcosta/recaptchav2dotnet)
+ [**ReCaptchav2dotnet**](https://github.com/pnmcosta/recaptchav2dotnet)
 
 ## Releases ##
 
